@@ -14,4 +14,8 @@ func main() {
 	concat()
 
 	countCharacters()
+
+	tryStringsMethods()
+
+	stringConversion()
 }
